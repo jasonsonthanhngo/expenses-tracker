@@ -15,7 +15,7 @@ Welcome to the Expense Tracker project! This web application is designed to help
 
 **Responsive Design**: Enjoy a seamless experience across different devices, thanks to the responsive design that adapts to different screen sizes.
 
-**## Technologies Used**
+## Technologies Used
 Node.js, React, MongoDB, Chart.js
 
 ## Getting Started
