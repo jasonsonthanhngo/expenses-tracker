@@ -25,7 +25,7 @@ To get started with the Expense Tracker project using Vite, follow these steps:
 1. Clone the repository: `git clone https://github.com/jasonsonthanhngo/expense-tracker.git`
 2. Navigate to the project directory: `cd expense-tracker`
 3. Install the dependencies: `npm install`
-4. Start the development server: `npm run dev`
+4. Start the development server: `npm start`
 5. In your terminal, you will see a message like `Server running at:`
    - Ctrl+click on the **localhost:5137** link to open the application in your browser.
 
