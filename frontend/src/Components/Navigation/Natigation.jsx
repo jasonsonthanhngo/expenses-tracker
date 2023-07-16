@@ -41,7 +41,7 @@ const NavStyled = styled.nav`
     margin-left: 2rem;
     margin-top: 2rem;
     width: 374px;
-    height: 80%;
+    height: 90%;
     background: rgba(252, 246, 249, 0.78);
     border: 3px solid #FFFFFF;
     backdrop-filter: blur(4.5px);
