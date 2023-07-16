@@ -1,0 +1,20 @@
+{
+  "dependencies": {
+    "axios": "^1.4.0",
+    "chart.js": "^4.3.0",
+    "moment": "^2.29.4",
+    "mongodb": "^5.7.0",
+    "react-chartjs-2": "^5.2.0",
+    "react-datepicker": "^4.16.0",
+    "styled-components": "^6.0.4"
+  },
+  "devDependencies": {
+    "concurrently": "^8.2.0"
+  },
+  "scripts": {
+    "start": "concurrently \"npm run backend\" \"npm run frontend\"",
+    "backend": "cd backend && npm start",
+    "frontend": "cd frontend && npm run dev"
+  }
+  
+}
