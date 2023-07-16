@@ -1,7 +1,7 @@
 # expenses-tracker
 Welcome to the Expense Tracker project! This web application is designed to help you manage your personal finances by tracking your expenses and income transactions. It provides a user-friendly interface that allows you to easily insert new transactions, view your transaction history, and analyze your financial data.
 
-**##Features**
+## Features
 
 Transaction Management: Add new expenses and income transactions, categorize them, and keep a record of all your financial activities.
 
