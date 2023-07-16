@@ -3,19 +3,19 @@ Welcome to the Expense Tracker project! This web application is designed to help
 
 ## Features
 
-Transaction Management: Add new expenses and income transactions, categorize them, and keep a record of all your financial activities.
+**Transaction Management**: Add new expenses and income transactions, categorize them, and keep a record of all your financial activities.
 
-Transaction History: View a comprehensive list of all your transactions, including details such as the date, amount, and category.
+**Transaction History**: View a comprehensive list of all your transactions, including details such as the date, amount, and category.
 
-Categorization: Organize your transactions into categories to gain insights into your spending habits and income sources.
+**Categorization**: Organize your transactions into categories to gain insights into your spending habits and income sources.
 
-Balance Calculation: Automatically calculates and displays your account balance based on your transactions.
+**Balance Calculation**: Automatically calculates and displays your account balance based on your transactions.
 
-Charts and Graphs: Visualize your financial data using charts and graphs to gain a better understanding of your spending patterns.
+**Charts and Graphs**: Visualize your financial data using charts and graphs to gain a better understanding of your spending patterns.
 
-Responsive Design: Enjoy a seamless experience across different devices, thanks to the responsive design that adapts to different screen sizes.
+**Responsive Design**: Enjoy a seamless experience across different devices, thanks to the responsive design that adapts to different screen sizes.
 
-**##Technologies Used**
+**## Technologies Used**
 Node.js, React, MongoDB, Chart.js
 
 ## Getting Started
