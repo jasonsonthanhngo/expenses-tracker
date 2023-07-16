@@ -45,7 +45,7 @@ Expense page featuring a form to add new expense transactions and a list of prev
 
 **Credits**
 
-I would like to thank [The Code Dealer](https://www.youtube.com/@TheCodeDealer) for their tutorial on building an expense tracker. Their video [Full Stack Development with React and Node js - Expense Tracker Application](https://www.youtube.com/watch?v=i0JesTevAcA&ab_channel=TheCodeDealer) provided valuable guidance and inspiration for this project.
+I would like to thank [The Code Dealer](https://www.youtube.com/@TheCodeDealer) for his tutorial on building an expense tracker. His video [Full Stack Development with React and Node js - Expense Tracker Application](https://www.youtube.com/watch?v=i0JesTevAcA&ab_channel=TheCodeDealer) provided valuable guidance and inspiration for this project.
 
 
 
