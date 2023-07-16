@@ -1,7 +1,7 @@
 # expenses-tracker
 Welcome to the Expense Tracker project! This web application is designed to help you manage your personal finances by tracking your expenses and income transactions. It provides a user-friendly interface that allows you to easily insert new transactions, view your transaction history, and analyze your financial data.
 
-#**Features**
+**##Features**
 
 Transaction Management: Add new expenses and income transactions, categorize them, and keep a record of all your financial activities.
 
@@ -15,5 +15,21 @@ Charts and Graphs: Visualize your financial data using charts and graphs to gain
 
 Responsive Design: Enjoy a seamless experience across different devices, thanks to the responsive design that adapts to different screen sizes.
 
-#**Technologies Used**
+**##Technologies Used**
 Node.js, React, MongoDB, Chart.js
+
+## Getting Started
+
+To get started with the Expense Tracker project using Vite, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/jasonsonthanhngo/expense-tracker.git`
+2. Navigate to the project directory: `cd expense-tracker`
+3. Install the dependencies: `npm install`
+4. Start the development server: `npm run dev`
+5. In your terminal, you will see a message like `Server running at:`
+   - Ctrl+click on the **localhost:5137** link to open the application in your browser.
+
+Please ensure that you have Node.js installed on your machine before running the application. Additionally, make sure you have Vite installed globally by running `npm install -g create-vite` if you haven't done so already.
+
+Remember to adjust the repository URL, directory name, and port number to match your specific setup.
+
