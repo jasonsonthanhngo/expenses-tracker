@@ -34,7 +34,7 @@ Please ensure that you have Node.js installed on your machine before running the
 Remember to adjust the repository URL, directory name, and port number to match your specific setup.
 
 ## Preview
-![Screenshot](Preview/Dashboard.png)
+![Screenshot](Preview/Dashboard.PNG)
 
 
 
