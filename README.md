@@ -43,6 +43,11 @@ Income page displaying a form to add new income transactions and a list of previ
 ![Screenshot](Preview/Expense.PNG)
 Expense page featuring a form to add new expense transactions and a list of previous expense transactions, facilitating effective tracking and management of spending habits.
 
+## Credits
+
+I would like to thank [The Code Dealer](https://www.youtube.com/@TheCodeDealer) for their tutorial on building an expense tracker. Their video [Full Stack Development with React and Node js - Expense Tracker Application.]([link-to-video](https://www.youtube.com/watch?v=i0JesTevAcA&ab_channel=TheCodeDealer)https://www.youtube.com/watch?v=i0JesTevAcA&ab_channel=TheCodeDealer) provided valuable guidance and inspiration for this project.
+
+
 
 
 
