@@ -35,6 +35,15 @@ Remember to adjust the repository URL, directory name, and port number to match 
 
 ## Preview
 ![Screenshot](Preview/Dashboard.PNG)
+Dashboard view presenting a visual chart illustrating income and expenses, accompanied by a balance summary for an at-a-glance understanding of financial standing.
+
+![Screenshot](Preview/Income.PNG)
+Income page displaying a form to add new income transactions and a list of previous income transactions, empowering users to track and categorize various sources of income.
+
+![Screenshot](Preview/Expense.PNG)
+Expense page featuring a form to add new expense transactions and a list of previous expense transactions, facilitating effective tracking and management of spending habits.
+
+
 
 
 
