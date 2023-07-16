@@ -25,7 +25,6 @@ function ExpenseForm(){
     const handleSubmit = e => {
         e.preventDefault()
         addExpense(inputState)
-        getExpenses()
         setInputState({
             title: '',
             amount: '',
